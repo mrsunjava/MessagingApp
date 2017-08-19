@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215256415011",
+    "firebase_url": "https://messagingapp-7f556.firebaseio.com",
+    "project_id": "messagingapp-7f556",
+    "storage_bucket": "messagingapp-7f556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215256415011:android:abfe40c37eacf2b2",
+        "android_client_info": {
+          "package_name": "mychatapp.jawwad.com.messagingandriodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215256415011-6h074cpvj2kfagk4s23o7d8jfl9bift5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mychatapp.jawwad.com.messagingandriodapp",
+            "certificate_hash": "ad7d44687e8b0ff7d0fca73392bfbdc88d11361c"
+          }
+        },
+        {
+          "client_id": "215256415011-j52c04po0jlu9oir00befhqqklvamv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANkHtTbz5H3mVjvtOQ6LCXbl1RtYwLOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215256415011-j52c04po0jlu9oir00befhqqklvamv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
