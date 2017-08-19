@@ -60,6 +60,12 @@ public class ChatActivity extends AppCompatActivity {
         messagesRecyclerView.setLayoutManager(linearLayoutManager);
         messagesRecyclerView.setAdapter(messageAdapter);
         loadMessages();
+          sendButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                sendMessage();
+            }
+        });
     }
 
     private void sendMessage() {
